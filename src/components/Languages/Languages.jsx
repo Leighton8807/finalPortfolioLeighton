@@ -21,6 +21,9 @@ function Languages(){
                     <img src={iconJava} alt="java" />
                     <img src={iconExpress} alt="express" />
                 </div>
+                <div className="fondoBlanco">
+                   
+                </div>
             </section>
         </>
     )
